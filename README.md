@@ -3,7 +3,9 @@
 This repository will house my Sunvox modules, which I would like to share with the Sunvox Community.
 Modules will be divided into categories, each of which will be assigned a separate folder.
 For each module, I will try to add a small explanation, for which each controller is responsible and how they are arranged from the inside.
+
 Enjoy the modules! If you have suggestions for improvement and optimization - some modules do really strain SunVox, please share your suggestions.
+
 It would be nice if you mention that you've used these modules and will apply a link to this repository.
 
 **Important note: SunVox version must be v1.9.2 or higher.**
