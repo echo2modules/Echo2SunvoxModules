@@ -25,4 +25,6 @@ Echo2 SoundCloud: https://soundcloud.com/mkayseven
 
 Another nice guthub for modules by Clear Immobility: https://github.com/ClearImmobility/SunVox-stuff
 
+Yet another github for modules by romax0lahin https://github.com/romax9lahin/Sunvox-Stuff
+
 '+==@==+'
