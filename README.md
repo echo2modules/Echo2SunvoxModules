@@ -23,7 +23,7 @@ Alex Zolotov's SoundCloud: https://soundcloud.com/nightradio
 
 Echo2 SoundCloud: https://soundcloud.com/mkayseven
 
-Another nice guthub for modules by Clear Immobility: https://github.com/ClearImmobility/SunVox-stuff
+Another nice guthub for modules by Trackerbound: https://github.com/Trackerbound/SunVox-stuff
 
 Yet another github for modules by romax0lahin https://github.com/romax9lahin/Sunvox-Stuff
 
